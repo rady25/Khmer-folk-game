@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rady25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+នេះគឺជាល្បែងប្រជាប្រិយខ្មែរដែលគេនិយមបំផុតនៅតាមរដូវការបុណ្យទានឬបុណ្យប្រពៃណីផ្សេងៗដែលគេនិយមលេង
+មុននឹងលេងវាមានក្បួនខ្លះដែលយើងត្រូវដឹង ទាក់ទងមកពួកយើងឥឡូវនេះបាន
+Email: radygamekhmerdev@gmail.com
 
-<!---
-rady25/rady25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contact call: +855966170191
